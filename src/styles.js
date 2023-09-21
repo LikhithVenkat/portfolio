@@ -12,6 +12,8 @@ const styles = {
       "text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]",
     sectionSubText:
       "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
+    hexHover:
+    "w-32 h-32  hover:shadow-lg hover:bg-green-500 transition duration-300 ease-in-out flex items-center justify-center",
   };
   
   export { styles };

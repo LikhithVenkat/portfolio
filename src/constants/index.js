@@ -67,6 +67,14 @@ import {
   
   const technologies = [
     {
+      name: "HTML",
+      icon: html,
+    },
+    {
+      name: "CSS",
+      icon: css,
+    },
+    {
       name: "JavaScript",
       icon: javascript,
     },
@@ -81,6 +89,10 @@ import {
     {
       name: "Node JS",
       icon: nodejs,
+    },
+    {
+      name: "Express JS",
+      icon: express,
     },
     {
       name: "VueJS",
@@ -110,6 +122,10 @@ import {
     {
       name: "MongoDB",
       icon: mongodb,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
     },
     {
       name: "Three JS",

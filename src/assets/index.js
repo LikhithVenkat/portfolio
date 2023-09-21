@@ -26,7 +26,7 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
 
 import akshara from "./company/akshara.png";
 import mirs from "./company/mirs.png";

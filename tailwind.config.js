@@ -12,6 +12,9 @@ module.exports = {
         "black-200": "#090325",
         "white-100": "#f3f3f3",
       },
+      clipPath: {
+        hexagon: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)',
+      },
       boxShadow: {
         card: "0px 35px 120px -15px #211e35",
       },
